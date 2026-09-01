@@ -1,8 +1,8 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Pranav</h1>
 
-# Hi 👋, I'm Pranav
-
-### `Building things that matter`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10FF00&center=true&vCenter=true&width=480&lines=Building+things+that+matter;Full-Stack+Developer;Open+Source+Contributor;Passionate+about+DSA+%26+Python;openSUSE+2026+Speaker" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-choudhary" target="_blank">
@@ -25,8 +25,6 @@
   </a>
 </p>
 
-</div>
-
 ---
 
 ### 👨‍💻 About Me
@@ -43,7 +41,7 @@
 
 ### 🧩 Problem Solving & Competitive Programming
 
-<p>
+<p align="left">
   <a href="https://leetcode.com/u/pranavchoudharyy/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
@@ -60,7 +58,7 @@
 ### 🛠 Tech Stack
 
 #### Languages
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -70,7 +68,7 @@
 </p>
 
 #### Frameworks, Libraries & BaaS
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -79,7 +77,7 @@
 </p>
 
 #### Cloud-Native, DevOps & Hardware
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux CLI" />
