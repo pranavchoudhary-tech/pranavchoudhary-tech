@@ -14,15 +14,6 @@
   <a href="https://github.com/pranavchoudhary-tech">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/pranavchoudharyy/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://codeforces.com/profile/Pranav-Choudhary" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.codechef.com/users/pranavchoudhry" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
 </p>
 
 ---
@@ -36,6 +27,22 @@
 - 🧠 Solving problems in **Data Structures & Algorithms (DSA)** across online platforms.
 - 🤝 Always open to interesting projects and collaborations!
 - 📫 Reach me at: **pranav.nstblr@gmail.com**
+
+---
+
+### 🧩 Problem Solving & Competitive Programming
+
+<p align="left">
+  <a href="https://leetcode.com/u/pranavchoudharyy/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/Pranav-Choudhary" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/pranavchoudhry" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
 
 ---
 
