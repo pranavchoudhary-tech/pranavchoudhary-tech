@@ -29,11 +29,19 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech CSE (AI & ML) student at **Newton School of Technology, Bangalore**.
-- 🚀 Passionate about building full-stack web applications, real-time tools, and open-source software.
-- 🛠️ Active **Open Source contributor** across notable developer tools and ecosystems.
+- 🎤 **International Speaker** at **openSUSE Conference 2026** (Nuremberg, Germany).
+- 🚀 Passionate about cloud-native systems, full-stack web applications, and container isolation.
+- 🛠️ Active **Upstream Open Source contributor** to **Kubernetes (CNCF)**, **openSUSE**, **CPython**, and **pandas**.
 - 🧠 Regularly practicing **Data Structures & Algorithms (DSA)** and competitive programming.
-- 🎮 Head of **Esports Club** @ NST Bangalore Campus.
 - 📫 How to reach me: **pranav.nstblr@gmail.com**
+
+---
+
+### 🌐 Open Source Highlights
+
+- ☸️ **Kubernetes (CNCF / Upstream):** Authored Pull Requests for official Kubernetes documentation & release versioning.
+- 🦎 **openSUSE:** Contributed Rails framework updates and model association refactoring for Open Build Service (OBS).
+- 🐍 **CPython & pandas:** Contributed subclass metadata handling, type-check optimizations, and documentation bugfixes.
 
 ---
 
@@ -74,12 +82,13 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-#### DevOps, Tools & Hardware
+#### Cloud-Native, DevOps & Hardware
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux CLI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
