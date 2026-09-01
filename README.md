@@ -5,6 +5,9 @@
 ### `Building things that matter`
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/pranav-choudhary" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:pranav.nstblr@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -30,14 +33,15 @@
 
 - 🎓 B.Tech CSE (AI & ML) student at **Newton School of Technology, Bangalore**.
 - 🎤 **International Speaker** at **openSUSE Conference 2026** (Nuremberg, Germany).
-- 🚀 Passionate about cloud-native systems, full-stack web applications, and container isolation.
-- 🛠️ Active **Upstream Open Source contributor** across notable developer ecosystems.
-- 🧠 Regularly practicing **Data Structures & Algorithms (DSA)** and competitive programming.
-- 📫 How to reach me: **pranav.nstblr@gmail.com**
+- 🚀 Building interactive full-stack web applications and developer tools.
+- 🛠️ Passionate about open-source software and community collaboration.
+- 🧠 Solving problems in **Data Structures & Algorithms (DSA)** across online platforms.
+- 🤝 Always open to interesting projects and collaborations!
+- 📫 Reach me at: **pranav.nstblr@gmail.com**
 
 ---
 
-### 🧩 Competitive Programming & Problem Solving
+### 🧩 Problem Solving & Competitive Programming
 
 <p>
   <a href="https://leetcode.com/u/pranavchoudharyy/" target="_blank">
