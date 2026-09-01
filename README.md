@@ -31,17 +31,9 @@
 - 🎓 B.Tech CSE (AI & ML) student at **Newton School of Technology, Bangalore**.
 - 🎤 **International Speaker** at **openSUSE Conference 2026** (Nuremberg, Germany).
 - 🚀 Passionate about cloud-native systems, full-stack web applications, and container isolation.
-- 🛠️ Active **Upstream Open Source contributor** to **Kubernetes (CNCF)**, **openSUSE**, **CPython**, and **pandas**.
+- 🛠️ Active **Upstream Open Source contributor** across notable developer ecosystems.
 - 🧠 Regularly practicing **Data Structures & Algorithms (DSA)** and competitive programming.
 - 📫 How to reach me: **pranav.nstblr@gmail.com**
-
----
-
-### 🌐 Open Source Highlights
-
-- ☸️ **Kubernetes (CNCF / Upstream):** Authored Pull Requests for official Kubernetes documentation & release versioning.
-- 🦎 **openSUSE:** Contributed Rails framework updates and model association refactoring for Open Build Service (OBS).
-- 🐍 **CPython & pandas:** Contributed subclass metadata handling, type-check optimizations, and documentation bugfixes.
 
 ---
 
